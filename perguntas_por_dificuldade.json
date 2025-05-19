@@ -1,0 +1,244 @@
+[
+  {
+    "texto": "Qual o nome da capital do Brasil?",
+    "alternativas": [
+      "a) Brasilia",
+      "b) São Paulo",
+      "c) Rio de Janeiro",
+      "d) Belo Horizonte"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual desses países não faz parte da América do Sul?",
+    "alternativas": [
+      "a) Brasil",
+      "b) Argentina",
+      "c) México",
+      "d) Equador"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Quantas unidades federativas o Brasil tem (estados e distrito federal)?",
+    "alternativas": [
+      "a) 30",
+      "b) 18",
+      "c) 26",
+      "d) 27"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o país com maior área territorial do mundo?",
+    "alternativas": [
+      "a) EUA",
+      "b) Russia",
+      "c) Brasil",
+      "d) Austrália"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o nome da capital da França?",
+    "alternativas": [
+      "a) Berlim",
+      "b) Paris",
+      "c) Madri",
+      "d) Lisboa"
+    ],
+    "correta": "b",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual o país com a maior população do mundo?",
+    "alternativas": [
+      "a) China",
+      "b) Itália",
+      "c) India",
+      "d) Japão"
+    ],
+    "correta": "c",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual a fruta preferida da Magali?",
+    "alternativas": [
+      "a) Maçã",
+      "b) Melão",
+      "c) Banana",
+      "d) Melancia"
+    ],
+    "correta": "d",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Em que ano foi lançado o Show do Milhão?",
+    "alternativas": [
+      "a) 1975",
+      "b) 1999",
+      "c) 2009",
+      "d) 2021"
+    ],
+    "correta": "b",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome da trilogia de filmes baseada nos livros de J.R.R.Tolkien?",
+    "alternativas": [
+      "a) Matrix",
+      "b) Vingadores",
+      "c) Homem Aranha",
+      "d) O Senhor dos Anéis"
+    ],
+    "correta": "d",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Quem foi o criador do universo Star Wars?",
+    "alternativas": [
+      "a) George Lucas",
+      "b) Mestre Yoda",
+      "c) Steven Spielberg",
+      "d) Tarantino"
+    ],
+    "correta": "a",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome do filme brasileiro que ganhou o Oscar de melhor filme internacional?",
+    "alternativas": [
+      "a) Cidade de Deus",
+      "b) Central do Brasil",
+      "c) Ainda estou aqui",
+      "d) O Auto da compadecida"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome da série do universo Star Wars que tem um bebê Yoda?",
+    "alternativas": [
+      "a) Ahsoka",
+      "b) Obi-Wan Kenobi",
+      "c) The Mandalorian",
+      "d) The Book of Bob"
+    ],
+    "correta": "c",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Quanto tempo dura o \"Blip\" que apaga metade da população com o estalar dos dedos de Thanos em os Vingadores da Marvel?",
+    "alternativas": [
+      "a) 5 anos",
+      "b) 10 anos",
+      "c) 2 anos",
+      "d) 3 anos"
+    ],
+    "correta": "a",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o nome do coelho de pelúcia da Mônica?",
+    "alternativas": [
+      "a) Sansão",
+      "b) Rabitt",
+      "c) Pooh",
+      "d) Tigrão"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual o nome da primeira animação original do Cartoon Network feita no Brasil?",
+    "alternativas": [
+      "a) Padrinhos Mágicos",
+      "b) Meninas Super poderosas",
+      "c) Irmão do Jorel",
+      "d) Coragem, o Cão Covarde"
+    ],
+    "correta": "c",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual é a identidade secreta do Batman?",
+    "alternativas": [
+      "a) Clark Kent",
+      "b) Bruce Wayne",
+      "c) Steve Rogers",
+      "d) Tony Stark"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual era a capital da Roma antiga?",
+    "alternativas": [
+      "a) Nova York",
+      "b) Lisboa",
+      "c) Londres",
+      "d) Constantinopla"
+    ],
+    "correta": "d",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Em que ano foi promulgada a constituição Federal do Brasil?",
+    "alternativas": [
+      "a) 1988",
+      "b) 1998",
+      "c) 1950",
+      "d) 2024"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quem foi o criador da linguagem de programação Python?",
+    "alternativas": [
+      "a) Bil Gates",
+      "b) Steve Jobs",
+      "c) Guido van Rossum",
+      "d) LLinus Torvalds"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Em que ano a Microsoft lançou a primeira versão do Windows?",
+    "alternativas": [
+      "a) 1980",
+      "b) 1990",
+      "c) 1972",
+      "d) 1985"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual linguagem de programação é mais conhecida por seu uso na web para criar páginas dinâmicas?",
+    "alternativas": [
+      "a) JavaScript",
+      "b) C++",
+      "c) Python",
+      "d) Web"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual desses dispositivos é usado para conectar um computador à internet?",
+    "alternativas": [
+      "a) Impressor",
+      "b) Roteador",
+      "c) Scanner",
+      "d) Teclado"
+    ],
+    "correta": "b",
+    "dificuldade": "facil"
+  }
+]
