@@ -1,4 +1,4 @@
-# 🎮 Show do Milhão 
+# 🎮 Show do Milhão - Pensamento Computacional
 
 ## 📌 Sobre o projeto
 
