@@ -29,3 +29,27 @@ Permite pular perguntas sem perder a partida.
 Cada resposta correta aumenta a premiação acumulada.
 
 Caso erre uma pergunta, o jogo é encerrado.
+
+## 💻 Executando o projeto
+
+Instale ou verifique se possui Python instalado.
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/show-do-milhao.git
+```
+
+Entre na pasta:
+
+```bash
+cd logica-show-do-milhao-funcoes-main
+```
+
+Execute:
+
+```bash
+python logica_principal.py
+```
+
+---
