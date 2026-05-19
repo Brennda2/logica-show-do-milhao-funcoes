@@ -20,7 +20,7 @@ Durante a partida o jogador possui:
 
 📑 **1 ajuda**
 
-A carta elimina alternativas incorretas aleatoriamente.
+A carta elimina uma alternativa incorreta aleatoriamente.
 
 ⏭️ **3 pulos**
 
